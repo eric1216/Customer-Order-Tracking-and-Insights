@@ -52,14 +52,6 @@ Your task is to analyze this data and answer the following questions:
 
 ---
 
-## Additional Requirements
-
-1. **Assume the CSV file is too large to load into memory all at once**. You should implement your solution in a way that handles large datasets efficiently, either by using chunking or streaming.
-
-2. Provide a short summary of your approach, including **time and space complexity considerations**.
-
----
-
 ### Input Format
 The input will be a CSV file named `orders.csv` with the structure described above.
 
