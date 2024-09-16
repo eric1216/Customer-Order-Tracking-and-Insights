@@ -52,6 +52,14 @@ Your task is to analyze this data and answer the following questions:
 
 ---
 
+## Additional Requirements
+
+1. **I want to see your commits.** Please ensure that your commits are broken up and clearly labeled for each of the requirements.
+
+2. Provide a short summary of your approach, including **time and space complexity considerations**.
+
+---
+
 ### Input Format
 The input will be a CSV file named `orders.csv` with the structure described above.
 
