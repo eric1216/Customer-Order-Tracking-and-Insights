@@ -55,13 +55,8 @@ Your task is to analyze this data and answer the following questions:
 ## Additional Requirements
 
 1. **Assume the CSV file is too large to load into memory all at once**. You should implement your solution in a way that handles large datasets efficiently, either by using chunking or streaming.
-   
-2. Your code should **handle edge cases** such as:
-   - Missing or malformed data in the CSV.
-   - Orders with a `quantity` of 0 or negative prices.
-   - Customers with no orders in the dataset.
 
-3. Provide a short summary of your approach, including **time and space complexity considerations**.
+2. Provide a short summary of your approach, including **time and space complexity considerations**.
 
 ---
 
